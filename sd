@@ -3,5 +3,3 @@ int main()
 {
   std::cout << "Hello World! \n" ;
   }
-
-Adding some text
